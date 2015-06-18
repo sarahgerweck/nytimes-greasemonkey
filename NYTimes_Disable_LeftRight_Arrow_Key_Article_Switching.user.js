@@ -8,6 +8,8 @@
 // @grant       none
 // ==/UserScript==
 
+// greasemonkey
+
 var $ = unsafeWindow.jQuery;
 $(document).ready(function() {
   $("body").keydown(function(e) { 
