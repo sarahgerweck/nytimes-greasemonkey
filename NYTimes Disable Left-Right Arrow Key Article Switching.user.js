@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         test
+// @name         NYTimes Disable Left-Right Arrow Key Article Switching
 // @namespace    sarahgerweck
 // @version      0.1
 // @description  Prevents left/right arrow keys going to prev/next article.
